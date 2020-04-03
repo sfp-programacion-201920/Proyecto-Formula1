@@ -8,10 +8,7 @@ h2
     color: white;
     text-align: center;
 }
-p
-{
-    color:black
-}
+
 footer
 {
     background-color: #393D42;
@@ -21,7 +18,7 @@ footer
 }
 .logos
 {
-    margin: 650px;
+    margin: 30px;
 }
 table
 {
@@ -33,12 +30,7 @@ td
     border:2px solid black;
     text-align: center;
 }
-#facebook
-{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
+
 article
 {
     background-color: #FFCC00;

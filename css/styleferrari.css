@@ -24,7 +24,7 @@ footer
 }
 .logos
 {
-    margin: 650px;
+    margin: 30px;
 }
 article
 {
@@ -33,12 +33,7 @@ article
     margin: 75px;
     border-radius: 15px;
 }
-#facebook
-{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
+
 aside
 {
     text-align: center;

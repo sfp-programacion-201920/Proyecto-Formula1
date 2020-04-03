@@ -26,19 +26,14 @@ footer
 }
 .logos
 {
-    margin: 650px;
+    margin: 30px;
 }
 td
 {
     border:2px solid black;
     text-align: center;
 }
-#facebook
-{
-    display: block;
-    margin: auto;
-    text-align: center;
-}
+
 article
 {
     background-color: red;
